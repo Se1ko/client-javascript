@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite browser="chrome undefined" hostname="tuan" timestamp="2021-02-10T23:47:16" tests="3" failures="3">
+    <testcase name=":XRAY-1234: Passing test with xrayId" time="0" classname="">
+      <failure msg="testcase failed"/>
+    </testcase>
+    <testcase name=":XRAY-1235: Failing test with xrayId" time="0" classname="">
+      <failure msg="testcase failed"/>
+    </testcase>
+    <testcase name="Passing test with no xrayId" time="0" classname="">
+      <failure msg="testcase failed"/>
+    </testcase>
+  </testsuite>
+</testsuites>
